@@ -1,0 +1,53 @@
+.selectPage {
+  display: flex;
+}
+
+.numberOfPage {
+  background: var(--orange);
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  font-size: 20px;
+  margin-right: 38px;
+}
+
+.numberOfPage:hover {
+  cursor: pointer;
+}
+
+.numberOfPage2:hover {
+  cursor: pointer;
+}
+
+.numberOfPage2 {
+  background: var(--yellow);
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--black);
+  font-size: 20px;
+  margin-right: 38px;
+}
+
+.nextPage {
+  width: 98px;
+  height: 60px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  font-size: 20px;
+  background: var(--yellow);
+  color: var(--black);
+}
+.nextPage:hover {
+  cursor: pointer;
+}

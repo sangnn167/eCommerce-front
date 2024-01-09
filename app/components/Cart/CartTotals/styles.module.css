@@ -1,0 +1,50 @@
+.container {
+  width: 393px;
+  height: 390px;
+  text-align: center;
+  background: var(--yellow);
+}
+
+.textCart {
+  font-size: 32px;
+  font-weight: 600;
+  margin-top: 15px;
+  margin-bottom: 61px;
+}
+
+.textSubtotal {
+  font-size: 16px;
+  font-weight: 500px;
+  margin-right: 62px;
+}
+
+.subtotal{
+  display: flex;
+  margin-left: 75px;
+  margin-bottom: 31px;
+}
+
+.currentprice{
+  font-size: 16px;
+  color: var(--grey-2);
+}
+
+.total{
+  display: flex;
+  align-items: center;
+  margin-left: 75px;
+}
+
+.total .currentprice{
+  font-size: 20px;
+  color: var(--orange);
+}
+
+.button{
+  width: 222px;
+  height: 58.95px;
+  margin-top: 42px;
+  border: 1px solid var(--black);
+  border-radius: 15px;
+}
+

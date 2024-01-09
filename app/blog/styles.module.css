@@ -1,0 +1,76 @@
+.blogContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 1440px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.content {
+  margin-top: 106px;
+  display: flex;
+}
+
+.blog {
+  margin-bottom: 54px;
+}
+
+.blogpost {
+  margin-right: 30px;
+}
+
+.categories {
+  width: 393px;
+  height: 537px;
+}
+
+.categories .title {
+  margin-left: 77px;
+  font-size: 24px;
+  font-weight: 500px;
+  margin-bottom: 33px;
+}
+
+.tags {
+  margin-left: 77px;
+  margin-bottom: 41px;
+  font-size: 16;
+  color: var(--grey-2);
+  display: flex;
+}
+
+.test {
+  min-width: 250px;
+}
+
+.recentContainer {
+  margin-left: 77px;
+}
+
+.textRecent {
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 31px;
+  margin-bottom: 26px;
+}
+
+.productCard {
+  margin-bottom: 39px;
+}
+
+.shopService {
+  width: 1440px;
+  background: var(--yellow-1);
+  height: 270px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 48px;
+  margin-top: 85px;
+}

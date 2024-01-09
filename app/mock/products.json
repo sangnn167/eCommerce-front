@@ -1,0 +1,581 @@
+[
+  {
+    "id": 1,
+    "name": "Syltherine",
+    "stylist": "Stylish cafe chair",
+    "image": "/assets/images/syltherine.png",
+    "imageroom": "/assets/images/productDining.png",
+    "initialprice": "3.500.000",
+    "currentprice": 1500000,
+    "discount" : "-30%",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS001",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Leviosa",
+    "stylist": "Stylish cafe chair",
+    "image": "/assets/images/Muggo.png",
+    "imageroom": "/assets/images/bedroom.png",
+    "initialprice": "",
+    "currentprice": 25000000,
+    "discount" : "",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS002",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lolito",
+    "stylist": "Luxury big sofa",
+    "image": "/assets/images/lolito.png",
+    "imageroom": "/assets/images/livingroom.png",
+    "initialprice": "14.000.000",
+    "currentprice": 250000,
+    "discount" : "-50%",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS003",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Respira",
+    "stylist": "Outdoor bar table and stool",
+    "image": "/assets/images/Respira.png",
+    "initialprice": "",
+    "currentprice": 45000000,
+    "discount" : "New",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS004",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Grifo",
+    "stylist": "Night lamp",
+    "image": "/assets/images/grifo.png",
+    "initialprice": "",
+    "currentprice": 15000000,
+    "discount" : "",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS005",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Muggo",
+    "stylist": "Small mug",
+    "image": "/assets/images/Muggo.png",
+    "initialprice": "",
+    "currentprice": 25000000,
+    "discount" : "New",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS006",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Pingky",
+    "stylist": "Cute bed set",
+    "image": "/assets/images/Pingky.png",
+    "initialprice": "14.000.000",
+    "currentprice": 7500000,
+    "discount" : "-50%",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS007",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Potty",
+    "stylist": "Minimalist flower pot",
+    "image": "/assets/images/Potty.png",
+    "initialprice": "",
+    "currentprice": 25000000,
+    "discount" : "New",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS008",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Syltherine",
+    "stylist": "Stylish cafe chair",
+    "image": "/assets/images/Potty.png",
+    "initialprice": "3.500.000",
+    "currentprice": 25000000,
+    "discount" : "-30%",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS009",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Leviosa",
+    "stylist": "Stylish cafe chair",
+    "image": "/assets/images/Pingky.png",
+    "initialprice": "",
+    "currentprice": 25000000,
+    "discount" : "",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS010",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Lolito",
+    "stylist": "Luxury big sofa",
+    "image": "/assets/images/productDining.png",
+    "initialprice": "14.000.000",
+    "currentprice": 2500000,
+    "discount" : "-50%",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS011",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Respira",
+    "stylist": "Outdoor bar table and stool",
+    "image": "/assets/images/productDining.png",
+    "initialprice": "",
+    "currentprice": 25000000,
+    "discount" : "New",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS012",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Grifo",
+    "stylist": "Night lamp",
+    "image": "/assets/images/productDining.png",
+    "initialprice": "",
+    "currentprice": 25000000,
+    "discount" : "",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS013",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Muggo",
+    "stylist": "Small mug",
+    "image": "/assets/images/productDining.png",
+    "initialprice": "",
+    "currentprice": 25000000,
+    "discount" : "New",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS014",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Pingky",
+    "stylist": "Cute bed set",
+    "image": "/assets/images/syltherine.png",
+    "initialprice": "14.000.000",
+    "currentprice": 2500000,
+    "discount" : "-50%",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS015",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Muggo",
+    "stylist": "Minimalist flower pot",
+    "image": "/assets/images/productDining.png",
+    "initialprice": "",
+    "currentprice": 25000000,
+    "discount" : "New",
+    "category" : "Sofas",
+    "describe" : "Setting the bar as one of the loudest speakers in its class, the </br> Kilburn is a compact, stout-hearted hero with a well-balanced </br> audio which boasts a clear midrange and extended highs for a </br> sound.",
+    "description" :"Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and </br> sound of Marshall, unplugs the chords, and takes the show on the road. </br> </br>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest </br> speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange </br> and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls </br> to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+    "review" : 5,
+    "tags" : "Sofa, Chair, Home, Shop",
+    "sku": "SS016",
+    "imageSofa": "/assets/images/AsgaardSofa.png",
+    "horizontalImage": "/assets/images/horizontalImage.png",
+    "star": "4.7",
+    "additionalImages" : [
+      {
+        "idImg": 1,
+        "img":"/assets/images/sofa.png"
+      },
+      {
+        "idImg": 2,
+        "img":"/assets/images/setsofa.png"
+      },
+      {
+        "idImg": 3,
+        "img":"/assets/images/sofaset.png"
+      },
+      {
+        "idImg": 4,
+        "img":"/assets/images/stuartsofa.png"
+      }
+    ]
+  }
+]

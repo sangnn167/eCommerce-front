@@ -1,0 +1,30 @@
+.container {
+  width: 1334px;
+}
+
+.highQualityContainer {
+  display: flex;
+  align-items: center;
+}
+
+.information {
+  margin-left: 10px;
+}
+
+.information .title {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.information .describe {
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--grey-6);
+  margin-right: 55.33px;
+}
+
+.titleCheck{
+  font-size: 25px;
+  font-weight: 600;
+  margin-right: 55.33px;
+}

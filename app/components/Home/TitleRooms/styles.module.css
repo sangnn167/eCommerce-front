@@ -1,0 +1,29 @@
+.container{
+  margin-right: 42px;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.describe {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 25px;
+}
+
+.button {
+  width: 176px;
+  height: 48px;
+  background: var(--orange);
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+

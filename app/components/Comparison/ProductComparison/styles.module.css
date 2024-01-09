@@ -1,0 +1,130 @@
+.container {
+  display: flex;
+}
+
+.title .pageTitle {
+  font-size: 28px;
+  font-weight: 500;
+  width: 223px;
+  margin-right: 75px;
+  margin-top: 21px;
+}
+
+.viewMore {
+  width: 115px;
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 21px;
+  color: var(--grey-8);
+  border-bottom: 2px solid var(--grey-8);
+}
+
+.product {
+  font-weight: 500;
+  margin-right: 47px;
+}
+
+.productComparison {
+  font-weight: 500;
+  margin-right: 69px;
+}
+
+.productComparison .img img {
+  width: 271px;
+  height: 201px;
+  margin-top: -65px;
+}
+
+.productComparison .img {
+  width: 280px;
+  height: 177px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--yellow);
+}
+
+.product .img {
+  width: 280px;
+  height: 177px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--yellow);
+}
+
+.img img {
+  width: 239px;
+  height: 142px;
+}
+
+.nameProduct {
+  margin-top: 18px;
+  font-size: 24px;
+  margin-bottom: 6px;
+}
+
+.priceProduct {
+  font-size: 18px;
+  margin-bottom: 7px;
+}
+
+.star {
+  display: flex;
+  align-items: center;
+}
+
+.star .textStar {
+  margin-right: 4px;
+  font-size: 18px;
+  margin-top: 2px;
+  color: var(--black);
+}
+
+.iconStar {
+  color: var(--yellow-2);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.line {
+  border: 1px solid var(--grey-2);
+  height: 30px;
+  margin-right: 9px;
+}
+
+.star p {
+  font-size: 13px;
+  color: var(--grey-2);
+}
+
+.textAdd {
+  margin-top: 49px;
+  font-weight: 600;
+  font-size: 24px;
+  margin-bottom: 14px;
+}
+
+.buttonAdd:hover {
+  cursor: pointer;
+}
+
+.buttonAdd {
+  width: 242px;
+  height: 39px;
+  background: var(--orange);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  padding-left: 18px;
+  color: var(--white);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.buttonAdd > svg {
+  margin-left: 68px;
+}

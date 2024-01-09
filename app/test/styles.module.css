@@ -1,0 +1,10 @@
+.container{
+  width: 275px;
+  background: blue;
+  overflow: hidden;
+  padding: 50px;
+}
+.test {
+  width: 300px;
+  
+}

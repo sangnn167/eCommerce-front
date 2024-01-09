@@ -1,0 +1,30 @@
+.cartContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 1440px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.content{
+  width: 1240px;
+  margin-top: 72px;
+  display: flex;
+  margin-bottom: 85px;
+}
+
+.shopService {
+  width: 1440px;
+  background: var(--yellow-1);
+  height: 270px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 48px;
+}

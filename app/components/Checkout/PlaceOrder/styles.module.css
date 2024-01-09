@@ -1,0 +1,140 @@
+.container {
+  width: 608px;
+  height: 789px;
+  margin-top: 63px;
+}
+
+.content {
+  margin-top: 87px;
+  margin-left: 38px;
+  width: 533px;
+  font-size: 16px;
+  color: var(--black);
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.textTitle {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.titleProduct {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 22px;
+}
+
+.priceTotal {
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--orange);
+}
+
+.line {
+  border: 1px solid var(--grey);
+  width: 527.01px;
+  margin-bottom: 22.5px;
+}
+
+.titleDirect {
+  display: flex;
+  align-items: center;
+  margin-bottom: 11px;
+}
+
+.dot {
+  width: 14px;
+  height: 14px;
+  background: var(--black);
+  border-radius: 55%;
+  margin-right: 15px;
+}
+
+.describe {
+  color: var(--grey-2);
+  margin-bottom: 25px;
+}
+
+.bankTransferChecked input {
+  width: 14px;
+  height: 14px;
+  margin-right: 15px;
+}
+.bankTransferChecked {
+  display: flex;
+  align-items: center;
+  color: var(--grey-2);
+  margin-bottom: 16px;
+}
+
+.cashOnDeliveryChecked {
+  display: flex;
+  align-items: center;
+  color: var(--grey-2);
+}
+
+.cashOnDeliveryChecked input {
+  width: 14px;
+  height: 14px;
+  margin-right: 15px;
+}
+
+.checkboxContainer {
+  margin-bottom: 22px;
+}
+
+.buttonShowMore {
+  width: 318px;
+  height: 64px;
+  color: var(--black);
+  border: 1px solid var(--black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 15px;
+  font-size: 20px;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 39px;
+}
+
+.nameProduct {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 400;
+  margin-bottom: 22px;
+}
+
+.nameProduct p{
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--grey-2);
+  margin-right: 11px;
+}
+
+.titleName .textx{
+  font-size: 12px;
+  color: var(--black);
+  font-weight: 500;
+}
+
+.priceProduct{
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.titleName{
+  display: flex;
+  align-items: center;
+}
+

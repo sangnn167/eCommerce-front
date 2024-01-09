@@ -1,0 +1,57 @@
+.container {
+  position: relative;
+  margin-right: 24px;
+}
+
+.container img {
+  width: 404px;
+  height: 582px;
+}
+
+.titleBedroom {
+  position: absolute;
+  bottom: 24px;
+  left: 24px;
+  background: var(--grey-4);
+  width: 217px;
+  height: 130px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  color: var(--grey-3);
+}
+
+.title .line {
+  width: 27px;
+  border: 1px solid var(--grey-3);
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.describe {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.action {
+  position: absolute;
+  bottom: 24px;
+  right: 115px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--orange);
+  color: var(--white);
+}
+
+.action:hover {
+  cursor: pointer;
+}

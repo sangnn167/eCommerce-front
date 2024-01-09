@@ -1,0 +1,117 @@
+.homeContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 1440px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.content {
+  width: 1183px;
+}
+
+.content .titleContent {
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.content .describeContent {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 62.29px;
+  text-align: center;
+}
+
+.containerContent {
+  display: flex;
+  gap: 20px;
+}
+
+.productContent {
+  width: 381px;
+  height: 480px;
+  text-align: center;
+}
+
+.product {
+  max-width: 1236px;
+  margin-top: 100px;
+  margin-bottom: 32px;
+}
+
+.product p {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 32px;
+}
+
+.productsCard {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 32px;
+}
+
+.buttonShowMore {
+  width: 245px;
+  height: 48px;
+  border: 1px solid var(--orange);
+  color: var(--orange);
+  font-size: 16px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 69px;
+}
+
+.buttonShowMore:hover {
+  cursor: pointer;
+}
+
+.roomsContainer {
+  width: 1440px;
+  height: 670px;
+  background: var(--white-1);
+  display: flex;
+  align-items: center;
+  margin-bottom: 67px;
+  padding-left: 100px;
+  overflow: hidden;
+}
+
+.funiroFurniture {
+  width: 1440px;
+  text-align: center;
+}
+
+.funiroFurnitureContainer {
+  width: 356px;
+  height: 86px;
+}
+
+.funiroFurniture .titleFurniture {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.funiroFurniture .describeFurniture {
+  font-weight: 700;
+  font-size: 40px;
+  z-index: 2;
+  margin-bottom: -30px;
+}
+
+.line {
+  border: 1px solid var(--grey);
+  margin-top: 50px;
+  width: 1440px;
+  margin-bottom: 48px;
+}

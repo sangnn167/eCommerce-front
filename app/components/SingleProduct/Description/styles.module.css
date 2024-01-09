@@ -1,0 +1,43 @@
+.container {
+  color: var(--grey-2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title {
+  display: flex;
+  font-size: 24px;
+  margin-bottom: 37px;
+}
+
+.title > * {
+  margin-right: 52px;
+}
+
+.textDescription {
+  color: var(--black);
+}
+
+.description {
+  font-size: 16;
+  font-weight: 400;
+  margin-bottom: 36px;
+  
+}
+
+.imagesContainer{
+  display: flex;
+  gap: 29px;
+}
+
+.imgContainer{
+  width: 605px;
+  height: 348px;
+  border-radius: 10px;
+  background: var(--yellow);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

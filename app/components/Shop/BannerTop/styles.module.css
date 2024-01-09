@@ -1,0 +1,40 @@
+.bannerContainer {
+  position: relative;
+  text-align: center;
+  color: var(--black);
+}
+
+.bannerContainer img{
+  width: 1440px;
+  height: 316px;
+}
+
+.title{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.textShop{
+  font-size: 48px;
+  font-weight: 500;
+ 
+}
+
+.textHomeShop{
+  display: flex;
+  align-items: center;
+}
+
+.textHome{
+  font-size: 16px;
+  font-weight: 500;
+  margin-right: 6px;
+}
+
+.shop{
+  font-size: 16px;
+  font-weight: 300;
+  margin-left: 6px;
+}

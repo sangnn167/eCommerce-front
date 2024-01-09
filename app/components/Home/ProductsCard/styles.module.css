@@ -1,0 +1,114 @@
+.container {
+  width: 285px;
+  height: 446px;
+  background: var(--grey-5);
+  position: relative;
+}
+
+.container img {
+  width: 285px;
+  height: 301px;
+}
+
+.discount {
+  position: absolute;
+  top: 24px;
+  right: 24px;
+  background-color: var(--violet);
+  border-radius: 50%;
+  padding: 5px;
+  color: var(--white);
+  width: 48px;
+  height: 48px;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.productInfo {
+  margin-top: 16px;
+  margin-left: 16px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.describe {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--grey-6);
+}
+
+.price {
+  display: flex;
+  align-items: center;
+}
+
+.price .currentprice {
+  font-weight: 600;
+  font-size: 20px;
+  margin-right: 16px;
+}
+
+.price .initialprice {
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--grey-7);
+}
+
+.newDiscount {
+  background: var(--green);
+}
+
+.hoverContent {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  background-color: var(--black-1);
+}
+
+.container:hover .hoverContent {
+  opacity: 1;
+  background-color: var(--black-2);
+  width: 285px;
+  height: 446px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.addToCart {
+  font-size: 16px;
+  font-weight: 600;
+  background: var(--white);
+  color: var(--orange);
+  width: 202px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 24px;
+}
+
+.addToCart:hover {
+  cursor: pointer;
+}
+
+.actionButtons {
+  display: flex;
+  gap: 20px;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--white);
+}
+
+.action {
+  display: flex;
+  align-items: center;
+}

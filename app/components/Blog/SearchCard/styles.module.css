@@ -1,0 +1,22 @@
+.container {
+  position: relative;
+}
+.container input {
+  width: 311px;
+  height: 58px;
+  outline: unset;
+  border: 1px solid var(--grey-2);
+  border-radius: 10px;
+  margin-top: 22px;
+  margin-left: 41px;
+  margin-bottom: 43px;
+  padding-left: 10px;
+}
+
+.searchIcon {
+  position: absolute;
+  top: 40%;
+  right: 50px; 
+  transform: translateY(-50%);
+  pointer-events: none; 
+}

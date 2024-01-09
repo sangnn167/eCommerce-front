@@ -1,0 +1,101 @@
+.textName {
+  font-size: 42px;
+  font-weight: 400;
+}
+
+.textPrice {
+  font-size: 24px;
+  font-weight: 500;
+  color: var(--grey-2);
+  margin-bottom: 10px;
+}
+
+.star {
+  color: var(--yellow-2);
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin-bottom: 13px;
+}
+
+.line {
+  border: 1px solid var(--grey-2);
+  height: 30px;
+  margin-left: 11px;
+  margin-right: 22px;
+}
+
+.star p {
+  font-size: 13px;
+  color: var(--grey-2);
+}
+
+.textDescribe {
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--black);
+  margin-bottom: 22px;
+}
+
+.textSize {
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--grey-2);
+  margin-bottom: 12px;
+}
+
+.select {
+  display: flex;
+  gap: 16px;
+}
+
+.select .sizeL {
+  width: 30px;
+  height: 30px;
+  border-radius: 5px;
+  background: var(--orange);
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.select .sizeXL {
+  width: 30px;
+  height: 30px;
+  border-radius: 5px;
+  background: var(--yellow);
+  color: var(--black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.textColor {
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--grey-2);
+  margin-bottom: 12px;
+  margin-top: 18px;
+}
+
+.select .colorBlue {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: var(--blue);
+}
+
+.select .colorBlack {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: var(--black);
+}
+
+.select .colorOrange {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: var(--orange);
+}

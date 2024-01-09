@@ -1,0 +1,23 @@
+.container {
+  width: 393px;
+  height: 537px;
+  margin-top: 68px;
+  padding-top: 46.12px;
+  color: var(--black);
+}
+
+.content {
+  margin-left: 54px;
+}
+
+.addrees{
+  display: flex;
+  gap: 30px;
+  font-size: 16px;
+  margin-bottom: 42px;  
+}
+
+.textTitle {
+  font-size: 24px;
+  font-weight: 500;
+}

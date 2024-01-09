@@ -1,0 +1,30 @@
+.comparisonContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 1440px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.product{
+  margin-top: 34px;
+  margin-bottom: 64px;
+}
+
+.shopService {
+  width: 1440px;
+  background: var(--yellow-1);
+  height: 270px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 48px;
+}
+
+

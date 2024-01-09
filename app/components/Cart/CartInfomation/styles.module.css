@@ -1,0 +1,87 @@
+.container{
+  margin-right: 30px;
+}
+.title {
+  width: 817px;
+  height: 55px;
+  background: var(--yellow);
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  color: var(--black);
+  font-weight: 500;
+  margin-bottom: 55px;
+}
+
+.textProduct {
+  margin-left: 142px;
+  margin-right: 114px;
+}
+
+.textPrice {
+  margin-right: 137px;
+}
+
+.textQuantity {
+  margin-right: 36px;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+}
+
+.images {
+  width: 105px;
+  height: 105px;
+  margin-right: 37px;
+}
+
+.images img {
+  width: 111px;
+  height: 90px;
+  background: var(--yellow-3);
+  border-radius: 10px;
+}
+
+.textName {
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--grey-2);
+  margin-right: 69px;
+}
+.textCurrentprice {
+  display: flex;
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--grey-2);
+  margin-right: 120px;
+}
+
+.textCurrentprice p {
+  margin-right: 3px;
+}
+
+.quantity {
+  border: 1px solid var(--grey-2);
+  width: 33px;
+  height: 32px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 50px;
+}
+
+.textSubtotal {
+  display: flex;
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--black);
+  margin-right: 120px;
+  margin-right: 52.5px;
+}
+
+.textSubtotal p {
+  margin-right: 3px;
+}

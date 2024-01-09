@@ -1,0 +1,48 @@
+.container {
+  margin-top: 119px;
+
+}
+
+.input {
+  margin-left: 53px;
+  width: 528.75px;
+  margin-bottom: 36px;
+}
+
+.inputMessage {
+  margin-left: 53px;
+}
+
+.inputMessage p{
+  font-weight: 500;
+  margin-bottom: 22px;
+}
+
+.inputMessage input {
+  width: 528.75px;
+  border: 1px solid var(--grey-2);
+  height: 50px;
+  padding-left: 30px;
+  padding-bottom: 70px;
+  padding-top: 26px;
+  border-radius: 10px;
+  margin-bottom: 49px;
+}
+
+.buttonSubmit{
+  margin-left: 59px;
+  width: 237px;
+  height: 55px;
+  background: var(--orange);
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  margin-bottom: 63px;
+}
+
+.buttonSubmit:hover {
+  cursor: pointer;
+}
+

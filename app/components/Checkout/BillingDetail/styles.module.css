@@ -1,0 +1,60 @@
+.billingDetail {
+  width: 608px;
+  height: 1714px;
+  margin-top: 63px;
+  margin-bottom: 52px;
+}
+
+.container {
+  margin-left: 100px;
+  margin-top: 35px;
+}
+
+.textBilling {
+  font-size: 36px;
+  font-weight: 600;
+  color: var(--black);
+  margin-bottom: 36px;
+}
+
+.nameUser {
+  display: flex;
+  gap: 31px;
+  margin-bottom: 36px;
+}
+
+.name {
+  width: 211px;
+}
+
+.input {
+  width: 453px;
+  margin-bottom: 36px;
+}
+
+.inputEmail {
+  width: 453px;
+  margin-bottom: 66px;
+}
+
+.inputAdd {
+  width: 453px;
+  margin-bottom: 71px;
+}
+
+.select label {
+  font-weight: 500;
+}
+
+.select select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid black;
+  width: 453px;
+  height: 75px;
+  border-radius: 10px;
+  margin-bottom: 36px;
+  margin-top: 22px;
+  color: var(--grey-2);
+  padding-left: 29px;
+}

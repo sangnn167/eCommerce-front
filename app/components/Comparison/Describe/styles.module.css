@@ -1,0 +1,115 @@
+.container{
+  margin-bottom: 112px;
+}
+.container .line {
+  width: 1440px;
+  border: 1px solid var(--grey-9);
+}
+
+.linecenter {
+  width: 1px;
+  border: 1px solid var(--grey-9);
+  height: 2444px;
+}
+
+.describeLeft {
+  margin-top: 42px;
+  margin-left: 96px;
+}
+
+.describeCenter {
+  margin-top: 110px;
+  margin-left: 62px;
+}
+
+.describeRight {
+  margin-top: 79px;
+  margin-left: 62px;
+}
+
+.general {
+  display: flex;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: 500;
+  margin-bottom: 28px;
+}
+
+.describe {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 34px;
+  margin-right: 84px;
+}
+
+.describeBottom {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 96px;
+}
+
+.describeBottomCenter {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 165px;
+}
+
+.describeSummary {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 63px;
+}
+
+.describeService {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 120px;
+}
+
+.describeWarranty {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 120px;
+}
+
+.describeNotWarranty {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 185px;
+}
+
+.describeKG {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 65px;
+}
+
+.describeWarrantyMid {
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 90px;
+}
+
+.describeCenterBottom{
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 60px;
+}
+
+.buttonAdd{
+  width: 215px;
+  height: 60px;
+  background: var(--orange);
+  color: var(--white);
+  font-size: 20px;
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttonAdd:hover{
+  cursor: pointer;
+}

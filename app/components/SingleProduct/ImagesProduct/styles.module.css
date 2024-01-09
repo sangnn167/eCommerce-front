@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+}
+
+.imgContainer {
+  margin-right: 31px;
+}
+
+.img img {
+  width: 83px;
+  height: 55px;
+}
+
+.img {
+  width: 76px;
+  height: 80px;
+  background: var(--yellow);
+  margin-bottom: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.mainImage {
+  margin-right: 105px;
+  width: 423px;
+  height: 500px;
+  background: var(--yellow);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.mainImage img{
+  width: 481px;
+  height: 391px;
+}

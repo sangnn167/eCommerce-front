@@ -1,0 +1,29 @@
+.container {
+  width: 1440px;
+  height: 100px;
+  background: var(--yellow);
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+}
+
+.textHome {
+  margin-left: 99px;
+  font-weight: 400;
+  color: var(--grey-2);
+  margin-right: 14px;
+}
+
+.textShop {
+  margin-left: 24px;
+  font-weight: 400;
+  color: var(--grey-2);
+  margin-right: 21px;
+}
+
+.line {
+  border: 1px solid var(--grey-2);
+  height: 37px;
+  margin-left: 25px;
+  margin-right: 34px;
+}
