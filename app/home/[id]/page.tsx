@@ -41,7 +41,7 @@ type Product = {
 
 const SingleProduct: FC<Props> = ({ params }) => {
 
-  const [showOverlay, setShowOverlay] = useState(false);
+  const [showOverlay, setShowOverlay] = useState<boolean>(false);
 
   const selectedProduct = products.find((product: any) => product.id.toString() === params.id);
   const relatedProducts = products.filter(
@@ -50,9 +50,8 @@ const SingleProduct: FC<Props> = ({ params }) => {
   const [selectedProductForComparison, setSelectedProductForComparison] = useState<Product | null>(null);
 
   const currentPrice = selectedProduct?.currentprice || 0;
-  const totalPrice = currentPrice + 27000000;
   const formattedCurrentPrice = currentPrice.toLocaleString('vi-VN');
-  const formattedTotalPrice = totalPrice.toLocaleString('vi-VN');
+
 
   const handleAddToCart = () => {
     setShowOverlay(true);
@@ -97,7 +96,6 @@ const SingleProduct: FC<Props> = ({ params }) => {
         setShowOverlay={setShowOverlay}
         selectedProduct={selectedProduct}
         formattedCurrentPrice={formattedCurrentPrice}
-        formattedTotalPrice={formattedTotalPrice}
         navigateToCart={navigateToCart}
         navigateToCheckout={navigateToCheckout}
         navigateToProductComparison={navigateToProductComparison} />

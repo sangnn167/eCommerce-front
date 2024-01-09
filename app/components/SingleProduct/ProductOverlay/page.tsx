@@ -11,7 +11,6 @@ type Props = {
     name: string;
   } | undefined;
   formattedCurrentPrice: string;
-  formattedTotalPrice: string;
   navigateToCart: () => void;
   navigateToCheckout: () => void;
   navigateToProductComparison: () => void;
@@ -22,7 +21,6 @@ export const ProductOverlay: FC<Props> = ({
   setShowOverlay,
   selectedProduct,
   formattedCurrentPrice,
-  formattedTotalPrice,
   navigateToCart,
   navigateToCheckout,
   navigateToProductComparison, }) => {
@@ -54,7 +52,7 @@ export const ProductOverlay: FC<Props> = ({
         </div>
         <div className={styles.totalPrice}>
           <p>Subtotal</p>
-          <p className={styles.price}>Rs. {formattedTotalPrice}</p>
+          <p className={styles.price}>Rs. {formattedCurrentPrice}</p>
         </div>
         <div className={styles.linePirce}></div>
         <div className={styles.button}>
