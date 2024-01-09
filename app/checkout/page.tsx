@@ -9,15 +9,13 @@ import { ShopService } from "../components/Shop/ShopService/page";
 import { Footer } from "../components/Footer/page";
 
 
-type Props = {};
-
-interface ProductType {
+type ProductType = {
   id: number;
   currentprice: number;
   name: string;
 }
 
-const Checkout: FC<Props> = () => {
+const Checkout: FC<ProductType> = () => {
   const [loading, setLoading] = useState<boolean>(true);
   const [selectedProductForComparison, setSelectedProductForComparison] = useState<ProductType | null>(null);
 

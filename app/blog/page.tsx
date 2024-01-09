@@ -49,7 +49,7 @@ const Blog: FC<Props> = () => {
               <div className={styles.title}>Categories</div>
               {uniqueTags.map((tag, index) => (
                 <div key={index} className={styles.tags}>
-                  <div className={styles.test}>
+                  <div className={styles.widthTags}>
                     <span className={styles.textTags}>{tag}</span>
                   </div>
                   <span>

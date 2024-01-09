@@ -1,12 +1,14 @@
 "use client";
-import React, { useState, useRef } from "react";
+import React, {FC, useState, useRef } from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import styles from "./styles.module.css";
 import { GrNext } from "react-icons/gr";
 
-const SliderRoom = () => {
+type Props = {};
+
+const SliderRoom:FC<Props> = () => {
 
   const [currentSlide, setCurrentSlide] = useState<number>(0);
   const sliderRef = useRef<Slider>(null);
@@ -37,17 +39,17 @@ const SliderRoom = () => {
 
   return (
     <div className={styles.container}>
-      <Slider {...settings} className={styles.test} ref={sliderRef}>
-        <div className={styles.test2}>
+      <Slider {...settings} ref={sliderRef}>
+        <div className={styles.images}>
           <img src="/assets/images/slider.png" alt="" />
         </div>
-        <div className={styles.test2}>
+        <div className={styles.images}>
           <img src="/assets/images/slider2.jpg" alt="" />
         </div>
-        <div className={styles.test2}>
+        <div className={styles.images}>
           <img src="/assets/images/slider.png" alt="" />
         </div>
-        <div className={styles.test2}>
+        <div className={styles.images}>
           <img src="/assets/images/slider2.jpg" alt="" />
         </div>
       </Slider>

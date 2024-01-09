@@ -79,14 +79,6 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
-.test {
-  margin-top: 200px;
-}
-
-.test:hover {
-  cursor: pointer;
-}
-
 .line {
   border: 1px solid var(--grey);
   width: 605.01px;

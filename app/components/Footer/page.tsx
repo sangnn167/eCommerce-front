@@ -18,16 +18,16 @@ export const Footer: FC<Props> = () => {
             <div className={styles.textLink}>Links</div>
             <ul>
               <li>
-                <a href="">Home</a>
+                <a href="/home">Home</a>
               </li>
               <li>
-                <a href="">Shop</a>
+                <a href="/shop">Shop</a>
               </li>
               <li>
-                <a href="">About</a>
+                <a href="/blog">About</a>
               </li>
               <li>
-                <a href="">Contact</a>
+                <a href="/contact">Contact</a>
               </li>
             </ul>
           </div>
